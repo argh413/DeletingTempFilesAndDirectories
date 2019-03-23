@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\tmp\DeletingTempAndPrefetchFiles\bin\Debug\DeletingTempAndPrefetchFiles.exe.config
+C:\Users\HP\Documents\tmp\DeletingTempAndPrefetchFiles\bin\Debug\DeletingTempAndPrefetchFiles.exe
+C:\Users\HP\Documents\tmp\DeletingTempAndPrefetchFiles\bin\Debug\DeletingTempAndPrefetchFiles.pdb
+C:\Users\HP\Documents\tmp\DeletingTempAndPrefetchFiles\obj\Debug\DeletingTempAndPrefetchFiles.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\tmp\DeletingTempAndPrefetchFiles\obj\Debug\DeletingTempAndPrefetchFiles.exe
+C:\Users\HP\Documents\tmp\DeletingTempAndPrefetchFiles\obj\Debug\DeletingTempAndPrefetchFiles.pdb
+C:\Users\HP\Documents\tmp\DeletingTempAndPrefetchFiles\obj\Debug\DeletingTempAndPrefetchFiles.csprojAssemblyReference.cache
