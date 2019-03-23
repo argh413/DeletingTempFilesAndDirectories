@@ -7,7 +7,7 @@ namespace DeletingTempAndPrefetchFiles
     {
         static void Main(string[] args)
         {
-			Console.Title("----Windows Cleaner-----");
+			//Console.Title("----Windows Cleaner-----");
             // Set Windows Startup For Program
             Microsoft.Win32.RegistryKey key = Microsoft.Win32.Registry.CurrentUser.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true);
             key.SetValue("CleanerTempFiles", @"C:\Users\HP\Documents\tmp\DeletingTempAndPrefetchFiles\bin\Debug\DeletingTempAndPrefetchFiles.exe");
